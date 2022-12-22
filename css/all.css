@@ -10945,4 +10945,24 @@ body, html {
 
 .navbar {
   --bs-navbar-toggler-border-color: rgba(0, 0, 0, 0);
+}
+
+/* 其他遊戲樣式 */
+/* 背景按鈕 */
+.bg_col {
+  background-color: #EBF8D7;
+  border-radius: 12px;
+  font-family: "Noto Sans TC", sans-serif;
+  color: #515151;
+  letter-spacing: 1px;
+}
+
+.text-100 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.money_img {
+  width: 50px;
+  height: 55px;
 }/*# sourceMappingURL=all.css.map */

@@ -1,0 +1,54 @@
+/* body,html{margin:0px;padding:0px;}
+body{background-color:rgb(230, 230, 230);} */
+/* .bg{background:url(Group_105.png) center top no-repeat;padding-top: 250px;padding-bottom: 222px;} */
+/* .container{
+    margin: 0 auto;
+    width: 414px;
+    height: 852px;
+    position: relative;
+} */
+/* a{
+    display: block;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 16px;
+    top: 5;
+} */
+.bg{
+    /* background-image: url(../img/turntable_game/Rectangle\ 328.png); */
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.wrapper{
+    width:100%;
+    max-width:380px;
+    position: relative;
+    margin:0px auto;
+}
+.part2{
+    background:url(../img/turntable_game/Group_103.png) center center no-repeat;
+    background-size:100% 100%;
+    padding-top:100%;
+}
+.rotate-pointer{
+    position:absolute;
+    top:45%;
+    left:50%;
+    width:30%;
+    height:30%;
+    margin-left:-15%;
+    margin-top:-15%;
+    background:url(../img/turntable_game/Group_106.png) center center no-repeat;
+    background-size:100% 100%;
+}
+
+.part2 {
+    transition: transform 10.5s;
+    transition-timing-function: cubic-bezier(0.50, 0, 0, 0.99); /*調整旋轉速度和起始速率*/
+}
+
