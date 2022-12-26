@@ -2,7 +2,6 @@ button{border: none;}
 
 .con{
     height: 640px;
-    font-family: "Noto Sans TC", sans-serif;
     letter-spacing: 1px;
 }
 .imge{
@@ -63,11 +62,13 @@ button{border: none;}
     font-size: 20px; 
     color: #ffc000; 
     line-height: 40px;
+    font-family: "Noto Sans TC", sans-serif;
 }
 .red-jg>h5{
     color: #fff;
     font-size: 18px;
     padding-left: 25px;
+    font-family: "Noto Sans TC", sans-serif;
 }
 
 
