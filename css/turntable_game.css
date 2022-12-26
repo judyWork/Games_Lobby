@@ -20,8 +20,9 @@ body{background-color:rgb(230, 230, 230);} */
     background-size: 100px 100px;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 10px;
-    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    height: 400px;
 }
 
 .wrapper{
@@ -29,6 +30,9 @@ body{background-color:rgb(230, 230, 230);} */
     max-width:380px;
     position: relative;
     margin:0px auto;
+    /* position: absolute; */
+    top: -365px;
+    left: 0px;
 }
 .part2{
     background:url(../img/turntable_game/Group_103.png) center center no-repeat;
@@ -52,3 +56,12 @@ body{background-color:rgb(230, 230, 230);} */
     transition-timing-function: cubic-bezier(0.50, 0, 0, 0.99); /*調整旋轉速度和起始速率*/
 }
 
+/* 背景方框 */
+.bg-0{
+    width: 350px;
+    height: 350px;
+    background-color: #FFD25F;
+    position: relative;
+    margin: 0 auto;
+    border-radius: 13px;
+}
