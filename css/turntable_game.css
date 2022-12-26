@@ -23,6 +23,7 @@ body{background-color:rgb(230, 230, 230);} */
     padding-top: 20px;
     padding-bottom: 30px;
     height: 400px;
+    font-family: "Noto Sans TC", sans-serif;
 }
 
 .wrapper{
