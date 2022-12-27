@@ -1,22 +1,4 @@
-/* body,html{margin:0px;padding:0px;}
-body{background-color:rgb(230, 230, 230);} */
-/* .bg{background:url(Group_105.png) center top no-repeat;padding-top: 250px;padding-bottom: 222px;} */
-/* .container{
-    margin: 0 auto;
-    width: 414px;
-    height: 852px;
-    position: relative;
-} */
-/* a{
-    display: block;
-    width: 40px;
-    height: 40px;
-    position: absolute;
-    left: 16px;
-    top: 5;
-} */
 .bg{
-    /* background-image: url(../img/turntable_game/Rectangle\ 328.png); */
     background-size: 100px 100px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -31,7 +13,6 @@ body{background-color:rgb(230, 230, 230);} */
     max-width:380px;
     position: relative;
     margin:0px auto;
-    /* position: absolute; */
     top: -365px;
     left: 0px;
 }

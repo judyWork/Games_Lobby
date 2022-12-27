@@ -19,8 +19,6 @@ button{border: none;}
     top: -12px;
 }
 @media (min-width: 960px){
-    
-    /* .red{width: 215px;height: 421px;padding:0px; } */
     .hewenqicontain{ max-width:600px; margin:0px auto;}
 }
 .red>span{
@@ -34,7 +32,6 @@ button{border: none;}
     top: 80px; 
     left: 0; 
     position: absolute;}
-/* .red>button{position: absolute; top: 38%; left: 30%; font-size: 18px; width: 40%; height: 24%; border-radius: 100%; background: #fdc339; color: #fff;} */
 .red .redbutton{
     position: absolute; 
     top: 49%;
@@ -42,8 +39,6 @@ button{border: none;}
     font-size: 18px; 
     width: 40%; 
     height: 24%; 
-    /* border-radius: 100%;  */
-    /* background: #fdc339;  */
     color: #fff;
     background: url(../img/Red_Envelope/but.png);
     background-repeat: no-repeat;

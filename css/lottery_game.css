@@ -2,17 +2,12 @@
 
 /* 九宮格遊戲 */
 #bg{
-    /* width: 414px;
-    height: 852px; */
     margin: 0 auto;
-    /* background: url(images/bg.png) no-repeat ; */
     background-size: cover;
     overflow: hidden;
     position: relative;
 }
 #container {
-    /* margin: 0 auto; */
-    /* margin-top: 270px; */
     width: 378px;
     height: 378px;
     border: 9px solid #FFE96B;
